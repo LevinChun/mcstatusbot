@@ -4,7 +4,7 @@
     "repository": "https://github.com/RahulR100/mcstatusbot/",
     "env": {
         "TOKEN": {
-            "description": "Your Discord bot's token.",
+            "description": "Your Discord bot token.",
             "required": true
         },
         "CLIENT_ID": {
